@@ -7,7 +7,7 @@ import CustomButton from '../custom-button/custom-button';
 
 const CollectionItem = ({ item, addItem }) =>{
 
-	const { imageUrl, id, name, price } = item;
+	const { imageUrl, name, price } = item;
 
 	return(
 
