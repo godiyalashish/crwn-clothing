@@ -9,8 +9,8 @@ const config = {
     projectId: "crwncloth-db",
     storageBucket: "crwncloth-db.appspot.com",
     messagingSenderId: "339259654192",
-    appId: "1:339259654192:web:f1405a7e35f6e2eeb12df5",
-    measurementId: "G-X8NXSDMC48"
+    appId: "1:339259654192:web:045856451ce5ddffb12df5",
+    measurementId: "G-0XZDNRY0E7"
   }
 
 export const createUserProfileDocument = async (userAuth,additionalData) => {
